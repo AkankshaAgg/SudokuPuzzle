@@ -1,7 +1,7 @@
 # SudokuPuzzle
 
 Sudoku Puzzle web application made using HTML, CSS, Javascript. 
-It is based on the concept of Backtracking.
+It is build using the concept of Backtracking.
 
 Following are the snippets of web application:
 * Staring page
